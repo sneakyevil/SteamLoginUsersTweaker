@@ -1,4 +1,4 @@
-# Steam Login Users Tweaker (Steam LUT)
+# Steam Login Users Tweaker (Steam Login UT)
 While using change account feature implemeted by Valve there is limit of having 5 last logged accounts, even tho your all accounts are still saved under loginusers.vdf and they sorted by timestamp this simple utility software gives user option to select the account they wanna log in before launching steam when they were switching between too many different accounts.
 
 ## Building
